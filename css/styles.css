@@ -94,7 +94,7 @@ header {
     padding: 1rem 0;
     position: fixed;
     width: 100%;
-    top: 0;
+    top: var(--promo-h, 0px);
     left: 0;
     z-index: 1000;
     box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
@@ -194,7 +194,7 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     text-align: center;
-    padding: 120px 0 60px;
+    padding: calc(120px + var(--promo-h, 0px)) 0 60px;
     position: relative;
     overflow: hidden;
 }
