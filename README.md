@@ -39,3 +39,9 @@ Press `Ctrl+C` in the terminal to stop the server.
 
 ## License
 Copyright © 2025 StarPlayrX. All rights reserved. 
+
+---
+
+**AgentiLoop:** [agentiloop.ai](https://agentiloop.ai/)
+
+Copyright © 2026 AgentiLoop.ai, a Logos InkPen LLC company. All rights reserved.
