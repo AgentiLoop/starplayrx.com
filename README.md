@@ -1,5 +1,8 @@
 # StarPlayrX Website
 
+🤖 **Built by the makers of [Agent!](https://github.com/AgentiLoop/Agent)**, an autonomous macOS agent.
+
+
 This repository contains the official statement website for StarPlayrX regarding the app's removal from the App Store.
 
 ## Local Development
